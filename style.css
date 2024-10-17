@@ -47,6 +47,11 @@ nav a:hover {
     transition: transform 0.1s;
 }
 
+.grafico {
+    margin:5rem;
+}
+
+
 footer {
     display: flex;
     align-items: center;
